@@ -13,7 +13,7 @@ axios.create({
   time: 1000, //请求超时时间
   responseType: "json" //返回值类型
   // responseType:"arraybuffer"  返回的数据格式
-
+  //123
 
 })
 
